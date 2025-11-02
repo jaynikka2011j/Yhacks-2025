@@ -17,7 +17,7 @@ const users: User[] = [
   { id: 4, name: 'Diana Miller', email: 'diana.m@example.com', imageUrl: 'https://i.pravatar.cc/150?u=4', interests: ['Sports', 'Movies', 'Technology'] },
   { id: 5, name: 'Ethan Davis', email: 'ethan.d@example.com', imageUrl: 'https://i.pravatar.cc/150?u=5', interests: ['Coding', 'Science', 'History'] },
   { id: 6, name: 'Fiona Garcia', email: 'fiona.g@example.com', imageUrl: 'https://i.pravatar.cc/150?u=6', interests: ['Dancing', 'Fashion', 'Socializing'] },
-  { id: 7, name: 'George Rodriguez', email: 'george.r@example.com', imageUrl: 'https://i.pravatar.cc/150?u=7', interests: ['Woodworking', 'Gardening', 'Fishing'] },
+  { id: 7, name: 'cheese man', email: 'george.r@example.com', imageUrl: 'https://i.pravatar.cc/150?u=7', interests: ['Woodworking', 'Gardening', 'Fishing'] },
   { id: 8, name: 'Hannah Martinez', email: 'hannah.m@example.com', imageUrl: 'https://i.pravatar.cc/150?u=8', interests: ['Writing', 'Poetry', 'Volunteering'] },
 ];
 
