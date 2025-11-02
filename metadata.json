@@ -1,5 +1,5 @@
 {
-  "name": "YHacks 2025",
-  "description": "A simple React and TypeScript web app that displays 'Hello World', styled with Tailwind CSS.",
+  "name": "User Directory App",
+  "description": "A simple user directory application built with React, TypeScript, and Tailwind CSS, displaying mock user data.",
   "requestFramePermissions": []
 }
